@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+
+#scores{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.form{
+    text-align: center;
+}
+
+
+#pass{
+    text-align: center;
+}
+
+
+#reset-button{
+    text-align: center;
+    width: 100%;
+    
+}

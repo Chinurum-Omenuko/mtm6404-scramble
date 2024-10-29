@@ -219,7 +219,7 @@ const App = () => {
 
   return (
     <div className="container">
-      <h1>Welcome to Scramble</h1>
+      <h1>Welcome to Scramble (countries)</h1>
       <Score points={points} strikes={strikes}/>
       <Word 
         words={countries}
